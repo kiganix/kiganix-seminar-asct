@@ -30,6 +30,9 @@ Kiganixの教育事業は特定商取引法に規定される[特定継続的役
 
 | 支払手段 | 支払時期 | 支払手数料（お客様負担分） |
 |---|---|---|
+| <img src="assets/jcb.svg" height="20" style="vertical-align: middle;"/> JCB（クレジットカード） | 予約完了から受講予定日まで | なし |
+| <img src="assets/americanexpress.svg" height="20" style="vertical-align: middle;"/> American Express（クレジットカード） | 予約完了から受講予定日まで | なし |
+| <img src="assets/dinersclub.svg" height="20" style="vertical-align: middle;"/> Diners Club（クレジットカード） | 予約完了から受講予定日まで | なし |
 | <img src="assets/payeasy.svg" height="20" style="vertical-align: middle;"/> Pay-easy | 支払手段選択から10日以内ないし受講予定日いずれか近い日時 | 190円 |
 | <img src="assets/family-mart.svg" height="20" style="vertical-align: middle;"/> ファミリーマート（コンビニ決済） | 支払手段選択から3日以内ないし受講予定日いずれか近い日時 | 190円 |
 | <img src="assets/lawson.svg" height="20" style="vertical-align: middle;"/> ローソン（コンビニ決済） | 支払手段選択から3日以内ないし受講予定日いずれか近い日時 | 190円 |
