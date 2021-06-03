@@ -28,6 +28,8 @@ Kiganixの教育事業は特定商取引法に規定される[特定継続的役
 
 ## お支払手段
 
+**ご注意ください:** VISA/Mastercardのご利用はできません。ご希望の場合、[WebMoney](https://www.webmoney.jp/guide/credit/index.html)や[BitCash](https://bitcash.jp/docs/support/serviceguide/members/mybitcash/creditcard)の提供するクレジットカードチャージ機能をご検討ください。
+
 | 支払手段 | 支払時期 | 支払手数料（お客様負担分） |
 |---|---|---|
 | <img src="assets/jcb.svg" height="20" style="vertical-align: middle;"/> JCB（クレジットカード） | 予約完了から受講予定日まで | なし |
